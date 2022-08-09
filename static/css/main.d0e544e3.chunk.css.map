@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAEA,KACE,WACF","file":"main.d0e544e3.chunk.css","sourcesContent":["/* Can't style the html tag with theme-ui, so put styles in here */\r\n\r\nhtml {\r\n  height: 100%;\r\n}\r\n"]}
